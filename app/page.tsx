@@ -316,7 +316,7 @@ export default function Home() {
 								style={{ y }}
 							>
 								<motion.img
-									src="https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=800"
+									src="/images/self/self-1.jpg"
 									alt="Hồ Tuấn Anh - MC Chuyên Nghiệp"
 									className="w-full h-[600px] lg:h-[700px] object-cover object-center"
 									initial={{ scale: 1.1 }}
